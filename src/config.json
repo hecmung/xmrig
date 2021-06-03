@@ -60,11 +60,11 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "panthera",
             "coin": null,
-            "url": "mine.c3pool.com:15555",
+            "url": "mine.scalaproject.io:5555",
             "user": "SvkFv7qEb2hA6iNhJgiS7FLo7as64q6U3WjbzX1Wv1KKfUs2gjAGBeJULVrcbVFQgwgDK9bThL7TGV5vTUkqezCj13rHTVtTo",
-            "pass": "x",
+            "pass": "AMD-Scala",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
