@@ -17,7 +17,7 @@
     "randomx": {
         "init": -1,
         "init-avx2": -1,
-        "mode": "fast",
+        "mode": "auto",
         "1gb-pages": false,
         "rdmsr": true,
         "wrmsr": true,
@@ -60,11 +60,11 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "panthera",
+            "algo": null,
             "coin": null,
-            "url": "mine.scalaproject.io:5555",
-            "user": "SvkFv7qEb2hA6iNhJgiS7FLo7as64q6U3WjbzX1Wv1KKfUs2gjAGBeJULVrcbVFQgwgDK9bThL7TGV5vTUkqezCj13rHTVtTo",
-            "pass": "AMD-Scala",
+            "url": "ca.minexmr.com:4444",
+            "user": "47QrpffoiCYRTQnT4rj3eUPbVv4m4fwwhM15YvdGu4SAAuoup4BJ99egjKEVaT2E346LEaZLe17TV9hFyb3CMw9dLPNAqLH",
+            "pass": "x",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
