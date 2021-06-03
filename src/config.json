@@ -23,11 +23,10 @@
         "wrmsr": true,
         "cache_qos": false,
         "numa": true,
-        "scratchpad_prefetch_mode": 0
+        "scratchpad_prefetch_mode": 1
     },
     "cpu": {
         "enabled": true,
-        "rx/wow": [-1, -1, -1, -1, -1, -1, -1, -1],
         "huge-pages": true,
         "huge-pages-jit": false,
         "hw-aes": null,
