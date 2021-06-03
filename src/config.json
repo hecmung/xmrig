@@ -23,11 +23,11 @@
         "wrmsr": true,
         "cache_qos": false,
         "numa": true,
-        "scratchpad_prefetch_mode": 2
+        "scratchpad_prefetch_mode": 0
     },
     "cpu": {
         "enabled": true,
-        "rx/wow": [-1, -1, -1, -1, -1, -1],
+        "rx/wow": [-1, -1, -1, -1, -1, -1, -1, -1],
         "huge-pages": true,
         "huge-pages-jit": false,
         "hw-aes": null,
@@ -63,8 +63,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "ca.minexmr.com:4444",
-            "user": "47QrpffoiCYRTQnT4rj3eUPbVv4m4fwwhM15YvdGu4SAAuoup4BJ99egjKEVaT2E346LEaZLe17TV9hFyb3CMw9dLPNAqLH",
+            "url": "mine.c3pool.com:15555",
+            "user": "SvkFv7qEb2hA6iNhJgiS7FLo7as64q6U3WjbzX1Wv1KKfUs2gjAGBeJULVrcbVFQgwgDK9bThL7TGV5vTUkqezCj13rHTVtTo",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
